@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a [URL Shortener](podi.me)
 - 🌱 I’m currently learning React, React-Native, GCP
 
-![](https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png =50x "Facebook profile")
+
+<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png" alt="drawing" style="width:50px;"/>

@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 
 <div style="display:flex">
 <a href="https://www.facebook.com/sivantha96/" >
-<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png" alt="drawing" width="50" style="display: inline;"/>
+<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png" alt="drawing" width="30" style="display: inline;"/>
 </a>
 <a href="https://twitter.com/sivantha96" >
-<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/twitter.png" alt="drawing" width="50" style="display: inline; margin-left: 10px;"/>
+<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/twitter.png" alt="drawing" width="30" style="display: inline; margin-left: 10px;"/>
 </a>
 <a href="https://www.linkedin.com/in/sivantha96/" >
-<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/linkedin.png" alt="drawing" width="50" style="display: inline; margin-left: 10px;"/>
+<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/linkedin.png" alt="drawing" width="30" style="display: inline; margin-left: 10px;"/>
 </a>
 </div>

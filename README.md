@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.facebook.com/sivantha96/">
-<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png" alt="drawing"  style="width:50px; height:50px"/>
+<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png" alt="drawing" width="50" style="width:50px; height:50px"/>
 </a>

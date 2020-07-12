@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a [URL Shortener](podi.me)
 - 🌱 I’m currently learning React, React-Native, GCP
 
-[![Facebook Profile](https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png =50x)] &nbsp; [![Twitter Profile](https://raw.githubusercontent.com/sivantha96/sivantha96/master/twitter.png =50x)]&nbsp;[![Linkedin Profile](https://raw.githubusercontent.com/sivantha96/sivantha96/master/linkedin.png =50x)](https://www.linkedin.com/in/sivantha96/)
+![](https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png =50x "Facebook profile")

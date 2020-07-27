@@ -8,7 +8,7 @@ Undergraduate @usj
 * Jul 12 2020 [Java OOP Concepts](https://dev.to/sivantha96/java-oop-cheetsheet-4cfi)
 
 - 🔭 I’m currently working on a [URL Shortener](https://podi.me/)
-- 🌱 I’m currently learning React, React-Native, GCP
+- 🌱 I’m currently learning Spring & GCP
 
 
 <div style="display:flex">

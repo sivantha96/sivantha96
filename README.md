@@ -4,6 +4,7 @@ Undergraduate @usj
 <hr>
 
 ### Latest articles from [dev.to](dev.to/sivantha96)
+* Jul 18 2020 [GitHub Student Developer Pack](https://dev.to/sivantha96/github-student-developer-pack-2020-15kg)
 * Jul 12 2020 [Java Under the Hood](https://dev.to/sivantha96/java-under-the-hood-3071)
 * Jul 12 2020 [Java OOP Concepts](https://dev.to/sivantha96/java-oop-cheetsheet-4cfi)
 

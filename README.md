@@ -1,8 +1,6 @@
 # Sivantha Paranavithana
 
-Undergraduate @USJ
-
-Software Engineering Intern @ADL
+Undergraduate @USJ | Software Engineering Intern @ADL
 
 <hr>
 

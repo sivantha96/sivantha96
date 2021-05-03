@@ -1,6 +1,6 @@
 # Sivantha Paranavithana
 
-Undergraduate @USJ | Software Engineering Intern @ADL
+Undergraduate @USJ | Software Engineer @ADL
 
 <hr>
 
@@ -8,9 +8,6 @@ Undergraduate @USJ | Software Engineering Intern @ADL
 * Jul 18 2020 [GitHub Student Developer Pack](https://dev.to/sivantha96/github-student-developer-pack-2020-15kg)
 * Jul 12 2020 [Java Under the Hood](https://dev.to/sivantha96/java-under-the-hood-3071)
 * Jul 12 2020 [Java OOP Concepts](https://dev.to/sivantha96/java-oop-cheetsheet-4cfi)
-
-- 🔭 I’m currently working on a [URL Shortener](https://podi.me/)
-- 🌱 I’m currently learning Spring & GCP
 
 
 <div style="display:flex">

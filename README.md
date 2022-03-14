@@ -12,27 +12,35 @@
 - ⚡ &nbsp;Fact - I ❤️ coding and sharing
 
 
-<div style="display:flex">
+
+ #### Contact Me
+<div style="display:flex; margin-left: 25px;">
 <a href="https://www.facebook.com/sivantha96/" >
-<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/facebook.png" alt="drawing" width="30" style="display: inline;"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/facebook.svg" alt="drawing" width="30" style="display: inline;"/>
 </a>
 <a href="https://twitter.com/sivantha96" >
-<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/twitter.png" alt="drawing" width="30" style="display: inline; margin-left: 10px;"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="drawing" width="30" style="display: inline; margin-left: 25px;"/>
 </a>
 <a href="https://www.linkedin.com/in/sivantha96/" >
-<img src="https://raw.githubusercontent.com/sivantha96/sivantha96/master/linkedin.png" alt="drawing" width="30" style="display: inline; margin-left: 10px;"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="drawing" width="30" style="display: inline; margin-left: 25px;"/>
+</a>
+<a href="mailto:sivantha.paranavithana@gmail.com" >
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="drawing" width="30" style="display: inline; margin-left: 25px;"/>
 </a>
 </div>
+
+#
+
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
 ### 🔲 Frameworks, Tools and Languages
 
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -44,7 +52,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-
 
 # 
 

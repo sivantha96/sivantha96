@@ -9,7 +9,7 @@
 - 🔖 &nbsp; Currently working on - A recipe management (Will Launch Soon), [react-native-template-awesome](https://www.npmjs.com/package/react-native-template-awesome), [JS Project Wizard](https://sivantha96.github.io/js-project-wizard/), 
 - 🎯 &nbsp; Current goal - learn more about React Native
 - 💻 &nbsp; Currenlty learning - React Native & CI/CD
-- ⚡ &nbsp;Fact - I ♥ coding and sharing
+- ⚡ &nbsp;Fact - I ♡ coding and sharing
 
 
 

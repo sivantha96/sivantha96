@@ -34,11 +34,11 @@
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is JavaScript a good programming language for coding interviews?](https://dev.to/sivantha96/is-javascript-a-good-programming-language-for-coding-interviews-3k8o)
 - [Organizing styles better with BEM + ITCSS + Sass](https://dev.to/sivantha96/organizing-styles-better-with-bem-itcss-sass-43d0)
 - [Render props in React](https://dev.to/sivantha96/render-props-d06)
 - [HOCs in React](https://dev.to/sivantha96/hocs-in-react-caj)
 - [What is stateful logic sharing and why do we need it?](https://dev.to/sivantha96/what-is-stateful-logic-sharing-and-why-do-we-need-it-3fdg)
-- [GitHub Student Developer Pack [FREE]](https://dev.to/sivantha96/github-student-developer-pack-2020-15kg)
 <!-- BLOG-POST-LIST:END -->
 
 

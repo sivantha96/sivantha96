@@ -34,7 +34,6 @@
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is JavaScript a good programming language for coding interviews?](https://dev.to/sivantha96/is-javascript-a-good-programming-language-for-coding-interviews-3k8o)
 - [Organizing styles better with BEM + ITCSS + Sass](https://dev.to/sivantha96/organizing-styles-better-with-bem-itcss-sass-43d0)
 - [Render props in React](https://dev.to/sivantha96/render-props-d06)
 - [HOCs in React](https://dev.to/sivantha96/hocs-in-react-caj)

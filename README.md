@@ -5,7 +5,7 @@
 
 - 👶🏾 &nbsp; Pronouns - he/him
 - 👨🏽‍🎓 &nbsp; Graduated - Specialized in Computer Science
-- 💼 &nbsp; Work - Software Engineer at [ADL](https://www.axiatadigitallabs.com)
+- 💼 &nbsp; Work - Full Stack Engineer at [EatMe Global](https://eatmeglobal.com)
 - 🔖 &nbsp; Currently working on - A recipe app, [react-native-template-awesome](https://www.npmjs.com/package/react-native-template-awesome), [JS Project Wizard](https://sivantha96.github.io/js-project-wizard/), 
 - 🎯 &nbsp; Current goal - learn more about React Native
 - 💻 &nbsp; Currenlty learning - React Native & CI/CD

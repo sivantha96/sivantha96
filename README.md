@@ -8,28 +8,7 @@
 - 💼 &nbsp; Work - Full Stack Engineer at [EatMe Global](https://eatmeglobal.com)
 - 🔖 &nbsp; Currently working on - a suite of apps for the restaurants to manage orders, payments, deliveries etc., 
 - 🎯 &nbsp; Current goal - gather as much knowledge and experiences needed to lead a great team
-- 💻 &nbsp; Currenlty learning - AWS & CI/CD
 - ⚡ &nbsp;Fact - I ♡ coding and knowledge sharing
-
-
-
- #### Contact Me
-<div style="display:flex; margin-left: 25px;">
-<a href="https://www.facebook.com/sivantha96/" >
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/facebook.svg" alt="drawing" width="30" style="display: inline;"/>
-</a>
-<a href="https://twitter.com/sivantha96" >
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="drawing" width="30" style="display: inline; margin-left: 25px;"/>
-</a>
-<a href="https://www.linkedin.com/in/sivantha96/" >
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="drawing" width="30" style="display: inline; margin-left: 25px;"/>
-</a>
-<a href="mailto:sivantha.paranavithana@gmail.com" >
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="drawing" width="30" style="display: inline; margin-left: 25px;"/>
-</a>
-</div>
-
-#
 
 
 ### 📩 Latest Blog Posts

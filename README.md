@@ -5,10 +5,10 @@
 
 - 👶🏾 &nbsp; Pronouns - he/him
 - 👨🏽‍🎓 &nbsp; Graduated - Specialized in Computer Science
-- 💼 &nbsp; Work - Full Stack Engineer at [EatMe Global](https://eatmeglobal.com)
-- 🔖 &nbsp; Currently working on - a suite of apps for the restaurants to manage orders, payments, deliveries etc., 
-- 🎯 &nbsp; Current goal - gather as much knowledge and experiences needed to lead a great team
-- ⚡ &nbsp;Fact - I ♡ coding and knowledge sharing
+- 💼 &nbsp; Work - Full Stack Engineer at [EatMe](https://eatme.sg)
+- 🔖 &nbsp; Currently working on - a suite of apps for the restaurants to manage orders, payments, deliveries, etc., 
+- 🎯 &nbsp; Current goal - gather as much knowledge and experience needed to lead a great team
+- ⚡ &nbsp; Fact - I ♡ coding and knowledge sharing
 
 
 ### 📩 Latest Blog Posts
